@@ -1,6 +1,9 @@
 # Data_projects_TripleTen
 Links to several other of my repositories representing my best data science work. Not exhaustive, just the highlights.
 
+## May 2025 Code Pudding
+Detecting bias in Wikipedia articles: https://github.com/kenklabnik/wikipedia-bias-detection
+
 ## sprint_17_final_project
 Predicting churn at a telecommunications company: https://github.com/kenklabnik/sprint_17_final_project
 
